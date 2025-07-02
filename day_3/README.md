@@ -6,5 +6,5 @@
 - Global and local namespacing
 
 ## Project  
-Python Pizza  
-Treasure Island (Choose-your-own-adventure game)
+- Python Pizza  
+- Treasure Island (Choose-your-own-adventure game)
